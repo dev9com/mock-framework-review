@@ -52,7 +52,7 @@ the mocking API.
 | *Feature*                | JMockit            | PowerMock          | EasyMock           | Mockito            |
 | ------------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
 | Standalone framework     | :white_check_mark: | :x:                | :white_check_mark: | :white_check_mark: |
-| Access private fields    | :white_check_mark: | :x:                | :x:                | :x:                |
+| Access private fields    | :white_check_mark: | :white_check_mark: | :x:                | :x:                |
 | Mock static methods      | :white_check_mark: | :white_check_mark: | :x:                | :x:                |
 | Mock private methods     | :white_check_mark: | :white_check_mark: | :x:                | :x:                |
 | Mock constructors        | :white_check_mark: | :white_check_mark: | :x:                | :x:                |
